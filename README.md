@@ -22,4 +22,4 @@ Minhas soluções e anotações do curso de Harvard (2025/2026).
 
 ---
 
-*Estudante: Eduardo*
+*Estudante: Muryllo*
