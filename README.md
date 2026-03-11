@@ -14,7 +14,7 @@ Minhas soluções e anotações do curso de Harvard (2025/2026).
 - [ ] **Week 4:** Memory (Filter, Recover)
 - [ ] **Week 5:** Data Structures (Speller)
 - [ ] **Week 6:** Python (Hello, Mario, Cash, Credit)
-- [ ] 
+      
 
 ---
 
